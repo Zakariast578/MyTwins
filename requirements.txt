@@ -1,32 +1,29 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 
-fastapi==0.125.0
-uvicorn==0.38.0
-python-dotenv==1.2.1
-pydantic==2.12.5
-starlette==0.50.0
+fastapi
+uvicorn
+python-dotenv
+pydantic
+starlette
 
-faiss-cpu==1.13.1
-sentence-transformers==5.1.2
-transformers==4.57.3
-torch==2.1.2+cpu
+torch
+transformers
+sentence-transformers
+faiss-cpu
 
-numpy==2.3.5
-scikit-learn==1.7.2
-scipy==1.16.3
-joblib==1.5.2
+numpy
+scikit-learn
+scipy
+joblib
 
-google-genai==1.55.0
-google-api-core==2.28.1
-google-auth==2.43.0
-protobuf==6.33.2
-requests==2.32.5
+google-genai
+requests
 
-tiktoken==0.12.0
-huggingface-hub==0.36.0
-tokenizers==0.22.1
-safetensors==0.7.0
-tqdm==4.67.1
+tiktoken
+huggingface-hub
+tokenizers
+safetensors
+tqdm
 
-python-dateutil==2.9.0.post0
-typing_extensions==4.15.0
+typing_extensions
+python-dateutil
