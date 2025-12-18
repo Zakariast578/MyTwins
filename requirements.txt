@@ -6,3 +6,5 @@ faiss-cpu
 sentence-transformers
 torch
 google-generativeai
+genai
+google
