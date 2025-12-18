@@ -1,8 +1,21 @@
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from dotenv import load_dotenv
 from my_info_agent import ask_question_api
 
+# -------------------------
+# Load .env
+# -------------------------
+load_dotenv()
+frontend_urls = os.getenv("FRONTEND_URL", "")
+# Split multiple URLs by comma and strip spaces
+origins = [url.strip() for url in frontend_urls.split(",") if url.strip()]
+
+# -------------------------
+# FastAPI app
+# -------------------------
 app = FastAPI(
     title="My Info Agent API",
     description="Personal AI Agent powered by Gemini + FAISS",
@@ -12,11 +25,6 @@ app = FastAPI(
 # -------------------------
 # Enable CORS
 # -------------------------
-origins = [
-    "http://localhost:5173",  # React dev server
-    "https://zakariasaid.dev"
-]
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
