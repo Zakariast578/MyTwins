@@ -158,6 +158,10 @@ def main():
             break
         answer = ask_agent(user_input)
         print(f"My Info Agent: {answer}\n")
+        
+def ask_question_api(question: str) -> str:
+    return ask_agent(question)
+
 
 if __name__ == "__main__":
     main()
