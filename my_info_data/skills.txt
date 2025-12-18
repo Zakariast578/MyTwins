@@ -1,0 +1,23 @@
+=== skills.txt ===
+Programming & Web Development:
+- Python
+- JavaScript
+- React.js
+- Django & Django REST Framework
+- Tailwind CSS
+
+Data & Machine Learning:
+- Data cleaning and visualization
+- Basic machine learning models
+- Jupyter Notebook
+
+IoT & Electronics:
+- Arduino
+- ESP32
+- Sensor integration (NPK, EC, Moisture, pH)
+
+Tools & Workflow:
+- Git & GitHub
+- VS Code
+- Basic API development
+- Linux / Command line

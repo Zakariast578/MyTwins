@@ -1,0 +1,14 @@
+=== certificates.txt ===
+
+1. Machine Learning Internship Certificate
+- Institution: HamiSkills
+- Focus: Data Science and Machine Learning
+
+2. Basic Web Development Certificate
+- Topics: React.js, Django (short courses)
+
+3. Leadership & Personal Development Workshops
+- Focus: Communication, teamwork, leadership skills
+
+4. IoT & Microcontroller Training
+- Focus: Arduino, ESP32, sensor integration

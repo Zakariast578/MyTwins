@@ -1,0 +1,6 @@
+faiss-cpu
+python-dotenv
+sentence-transformers
+openai
+torch
+numpy

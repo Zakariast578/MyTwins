@@ -1,0 +1,35 @@
+=== projects.txt ===
+GitHub Repository: https://github.com/Zakariast578
+
+1. Somali TalentLink
+- Description: A web-based platform for job seeking and service offering for Somali youth
+- Features: User profiles, job posts, service listings, admin panel
+- Purpose: Graduation thesis project
+- Technologies: React.js, Django, Tailwind CSS
+
+2. Soil Analysis System
+- Description: IoT-based soil monitoring system
+- Sensors: NPK, EC, Moisture, pH
+- Purpose: Helps farmers understand soil fertility and salinity
+- Technologies: Arduino, ESP32, Cloud storage
+
+3. Barbariye-Agri
+- Description: Smart agriculture initiative
+- Features: IoT greenhouses, automated monitoring, farm productivity improvement
+- Location: Somalia
+- Technologies: IoT, Automation
+
+4. Somalia Water Sources Data Analysis
+- Description: Data analysis project on water sources in Somalia
+- Purpose: Explore water availability, functionality, and geographic patterns
+- Technologies: Python, Data analysis, Visualization
+
+5. ML Projects (HamiSkills Internship)
+- Customer Purchase Prediction
+- Fruit Price Prediction
+- Purpose: Predictive analysis using basic machine learning workflows
+- Technologies: Python, Jupyter Notebook, ML libraries
+
+6. Portfolio Website
+- Description: Personal portfolio to showcase projects and skills
+- Technologies: React.js, Tailwind CSS

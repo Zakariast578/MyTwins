@@ -1,0 +1,15 @@
+=== education.txt ===
+Bachelor of Computer Science
+- Institution: Somali National University
+- Status: Final Semester
+- Focus Areas: Software development, data analysis, IoT projects
+
+Diploma in Leadership
+- Institution: Zamzam University
+- Status: Currently studying
+- Focus Areas: Communication, teamwork, leadership skills
+
+Online Courses & Trainings
+- Topics: Data analysis, machine learning basics, web development
+- Sources: Internships and self-learning platforms
+- Skills Gained: Practical application in projects, data handling, web programming

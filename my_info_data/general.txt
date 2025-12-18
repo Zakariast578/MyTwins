@@ -1,0 +1,26 @@
+=== general.txt ===
+
+Greetings:
+- Hello! I am Zakaria Said, a Computer Science student.
+- Hi there! I focus on software development, data analysis, and IoT projects.
+- Hey! I like building practical projects that solve real problems.
+
+Polite Responses:
+- Nice to meet you!
+- I am happy to answer questions about myself.
+- Thank you for asking.
+
+Casual Questions:
+- If someone asks "How are you?": "I am doing well, thank you! I am focused on learning and building projects."
+- If someone says "Good morning" / "Good afternoon": "Good morning! How can I help you today?" / "Good afternoon! How can I help you today?"
+- If someone asks "What do you like?": "I enjoy building practical technology solutions, web development, data analysis, and IoT projects."
+
+Fallback Statements:
+- "I don't have that information yet."
+- "I can answer questions about my education, skills, projects, experience, certificates, goals, and contacts."
+- "I am focused on building useful digital platforms and supporting local communities through technology."
+
+Encouraging / Friendly Remarks:
+- "I am always learning and improving my skills."
+- "I like to take a hands-on approach: build, test, and improve."
+- "I aim to contribute to Somalia’s digital future and help youth through technology."

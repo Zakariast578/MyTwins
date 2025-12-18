@@ -1,0 +1,25 @@
+=== experience.txt ===
+
+HamiSkills – Machine Learning Internship
+- Tasks: Fruit price prediction, customer purchase prediction
+- Skills Gained: Data cleaning, feature engineering, model building, reporting results
+- Technologies: Python, Jupyter Notebook, basic ML libraries
+
+IoT & Agriculture Projects
+- Tasks: Built soil monitoring systems using sensors, Arduino, and ESP32
+- Skills Gained: Sensor integration, cloud data storage, soil analysis
+- Technologies: Arduino, ESP32, Cloud platforms
+
+Web Development Projects
+- Tasks: Developed web applications using React.js, Django REST Framework, Tailwind CSS
+- Responsibilities: API endpoints, authentication, dashboards, admin features
+- Technologies: React.js, Django, Tailwind CSS
+
+Somali TalentLink (Graduation Project)
+- Description: Job and service platform for Somali youth
+- Responsibilities: System analysis, backend architecture, UI/UX design
+- Technologies: React.js, Django, Tailwind CSS
+
+Freelance & Volunteer Tech Work
+- Tasks: Helped friends and student teams with portfolio websites, small apps, debugging
+- Skills Gained: Project collaboration, problem-solving, quick prototyping

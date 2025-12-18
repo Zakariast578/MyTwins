@@ -1,0 +1,10 @@
+=== bio.txt ===
+Name: Zakaria Said
+Occupation: Computer Science student, final semester
+Focus Areas: Software development, Data analysis, IoT-based solutions
+Interests: Building practical projects that solve real problems, especially for the Somali context
+Goals:
+- Grow as a professional software developer
+- Create useful digital platforms
+- Support youth and local communities through technology
+Key Attributes: Innovative, problem-solver, community-oriented

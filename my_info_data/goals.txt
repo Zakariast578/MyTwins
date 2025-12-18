@@ -1,0 +1,19 @@
+=== goals.txt ===
+
+Short-Term Goals:
+- Finish Computer Science degree successfully
+- Complete Diploma in Leadership at Zamzam University
+- Improve skills in React, Django, and machine learning
+- Finalize and launch the Somali TalentLink project
+- Build a strong and clean developer portfolio
+
+Mid-Term Goals:
+- Grow 4Smart into a functioning smart agriculture solution
+- Develop more IoT and data-driven projects that solve local problems
+- Find a good job or internship in software development or data analysis
+- Strengthen leadership skills for future team and project roles
+
+Long-Term Goals:
+- Start or join impactful tech initiatives in Somalia
+- Become a skilled Data Scientist and tech leader
+- Support youth with technology, opportunities, and training

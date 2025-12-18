@@ -1,0 +1,8 @@
+=== contacts.txt ===
+Name: Zakaria Said
+Email: zakisaeddahir@gmail.com
+GitHub: https://github.com/Zakariast578
+Portfolio: https://zakariasaid.dev
+LinkedIn: https://linkedin.com/in/zakaria-said-zs55
+WhatsApp: +252613328355
+Location: Somalia

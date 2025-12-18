@@ -1,0 +1,18 @@
+Name: Zakaria Said
+Age: 22
+Education: Computer Science student (final semester), Diploma in Leadership at Zamzam University
+Focus Areas: Web development, Data analysis, IoT projects
+Interests:
+- Building practical technology solutions that support local communities
+- Working on projects that make a real difference, such as job platforms, smart farming tools, and data-driven insights
+Learning Style: Hands-on — build projects, test them, and improve step by step
+Skills Development:
+- Communication
+- Teamwork
+Goals:
+- Become a strong developer
+- Work on meaningful technology projects
+- Contribute to Somalia’s digital future
+- Become a recognized expert in data, a data scientist, and a machine learning developer
+- Develop backend skills with Django
+Key Attributes: Practical, innovative, community-focused, continuous learner
