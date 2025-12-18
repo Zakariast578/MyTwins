@@ -28,7 +28,7 @@ app = FastAPI(
 # -------------------------
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins or ["*"],  # fallback to allow all if empty
+    allow_origins=origins, 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -66,9 +66,3 @@ def ask_agent_api(request: QuestionRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing request: {str(e)}")
 
-# -------------------------
-# Entry point for deployment
-# -------------------------
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  
-    uvicorn.run("api:app", host="0.0.0.0", port=port, log_level="info")
